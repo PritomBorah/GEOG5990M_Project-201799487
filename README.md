@@ -6,3 +6,12 @@ Food insecurity has become an alarming isuue in today's world. Political discuss
 
 In this project we are going to find the association between two variable to know if there a strong, moderate or light relation exist among them.
 
+### Acknowledgement:
+
+##### 1. Purdam, K., Garratt, E. A., & Esmail, A. 2016. Hungry? Food Insecurity, Social Stigma and Embarrassment in the UK. Sociology, 50(6), 1072-1088. https://doi.org/10.1177/0038038515594092
+
+##### 2. Priority Places for Food Index Version 2, Consumer Data Research Centre. 2024. Available from: https://data.cdrc.ac.uk/dataset/priority-places-food-index-version-233
+
+##### 3. Lower layer Super Output Areas (December 2021) Boundaries EW BFE V9. 2023. Available from: https://geoportal.statistics.gov.uk/datasets/ons::lower-layer-super-output-areas-december-2021-boundaries-ew-bfe-v9/about
+
+##### 4. Priority Places for Food Index Version 2. 2024. Available from: https://data.cdrc.ac.uk/dataset/priority-places-food-index-version-2
